@@ -34,4 +34,4 @@ This portfolio showcases my education, technical skills, projects, work experien
 
 ## Credits
 
-This portfolio is based on an open-source template originally created by [Ganesh M (prodev717)](https://github.com/prodev717/portfolio). The design and structure were adapted and customized with my own content, projects, and styling.
+This portfolio is based on an open-source template originally created by [Ganesh M (prodev717)]. The design and structure were adapted and customized with my own content, projects, and styling.
