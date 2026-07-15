@@ -2,7 +2,7 @@
 
 A modern, interactive personal portfolio built with React, Vite, Tailwind CSS, and Framer Motion.
 
-🔗 **Live site:** _add your Vercel link here once deployed_
+🔗 **Live site:** - (https://gunjank.vercel.app/)
 
 ## About
 
