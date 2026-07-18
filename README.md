@@ -1,37 +1,67 @@
-# Gunjankumar Choudhari — Portfolio
+# 🌐 Gunjankumar Choudhari — Portfolio
 
-A modern, interactive personal portfolio built with React, Vite, Tailwind CSS, and Framer Motion.
+A modern, responsive personal portfolio built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
 
-🔗 **Live site:** - (https://gunjank.vercel.app/)
+> **Note:** This repository contains the **portfolio source code**. The production build is deployed on **Vercel** and **GitHub Pages**.
 
-## About
+## 🔗 Live Website
 
-This portfolio showcases my education, technical skills, projects, work experience, and certifications as a Computer Engineering student specializing in Machine Learning and Data Science.
+- **Vercel:** https://gunjank.vercel.app/
+- **GitHub Pages:** https://gunjankumar55.github.io/
 
-## Tech Stack
+## 📖 About
 
-- **React** — UI library
-- **Vite** — build tool & dev server
-- **Tailwind CSS** — styling
-- **Framer Motion** — animations
-- **p5.js** — interactive background canvas
-- **Lucide React** — icons
+This repository contains the source code for my personal portfolio. It showcases my education, technical skills, projects, certifications, and experience as a Computer Engineer with a focus on AI, Machine Learning, and Software Development.
 
-## Sections
+## 🚀 Tech Stack
 
-- **Hero** — intro, tagline, resume download
-- **About Me** — bio, education, GitHub & LeetCode stats
-- **Skills** — categorized technical skills (Languages, ML & Data, DB & Cloud, etc.)
-- **Projects** — featured projects with thumbnails, tags, and GitHub links
-- **Experience & Credentials** — work experience and certifications with verification links
-- **Contact** — LinkedIn, GitHub, and Email
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- p5.js
+- Lucide React
 
-## Contact
+## ✨ Features
+
+- Responsive modern UI
+- Interactive hero section
+- About section with GitHub & LeetCode stats
+- Technical skills showcase
+- Featured projects
+- Experience & Certifications
+- Resume download
+- Contact section with social links
+
+## 📂 Repository Structure
+
+```
+public/
+src/
+```
+
+## 🛠️ Local Setup
+
+```bash
+git clone https://github.com/Gunjankumar55/Gunjank_Portfolio.git
+
+cd Gunjank_Portfolio
+
+npm install
+
+npm run dev
+```
+
+## 📬 Contact
 
 - **Email:** gunjankumarchoudhari@gmail.com
-- **LinkedIn:** [linkedin.com/in/gunjanch5](https://www.linkedin.com/in/gunjanch5/)
-- **GitHub:** [github.com/Gunjankumar55](https://github.com/Gunjankumar55)
+- **LinkedIn:** https://www.linkedin.com/in/gunjanch5/
+- **GitHub:** https://github.com/Gunjankumar55
 
-## Credits
+## 🙏 Credits
 
-This portfolio is based on an open-source template originally created by [Ganesh M (prodev717)]. The design and structure were adapted and customized with my own content, projects, and styling.
+This portfolio is based on an open-source template originally created by **Ganesh M (prodev717)**. The design has been significantly customized with my own content, projects, animations, and styling.
+
+---
+
+⭐ If you found this project interesting, feel free to star the repository.
