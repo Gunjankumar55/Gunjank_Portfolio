@@ -22,6 +22,8 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col md:flex-row justify-between items-center gap-4 text-[9px] sm:text-[10px] md:text-xs font-bold uppercase tracking-widest text-brand-bg/70">
         <p>&copy; {year} Gunjankumar Choudhari. All rights reserved.</p>
       </div>
+
+      
     </footer>
   );
 }
