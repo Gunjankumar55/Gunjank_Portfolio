@@ -6,7 +6,7 @@ import profilePic from "./assets/profile.png";
 
 export default function Hero({
   name = "Gunjan",
-  greeting = "Hello, Devs!",
+  greeting = "Hello, World!",
   tagline = "Computer Engineer | Java • SQL • Python | Exploring AI",
 }) {
   const sketchParentRef = useRef(null);
